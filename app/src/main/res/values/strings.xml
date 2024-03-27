@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title"> BMI Calculator</string>
+    <string name="age"> Age(Years)</string>
+    <string name="sex"> Gender </string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Metric">Metric</string>
+    <string name="Imperial">Imperial</string>
+    <string name="CalculateBMI">Calculate BMI</string>
+    <string name="Clear">Clear</string>
+    <string name="bmi_result_with_status">BMI is %.2f   %s</string>
+</resources>
